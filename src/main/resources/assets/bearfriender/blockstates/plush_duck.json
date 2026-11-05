@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bearfriender:block/plush_duck"
+    },
+    "facing=east": {
+      "model": "bearfriender:block/plush_duck",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bearfriender:block/plush_duck",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bearfriender:block/plush_duck",
+      "y": 270
+    }
+  }
+}

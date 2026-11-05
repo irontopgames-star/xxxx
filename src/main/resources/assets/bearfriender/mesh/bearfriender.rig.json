@@ -1,0 +1,148 @@
+{
+  "bones": [
+    {
+      "name": "root",
+      "parent": null,
+      "pivot": [
+        0.0,
+        0.3351,
+        0.0
+      ]
+    },
+    {
+      "name": "torso",
+      "parent": "root",
+      "pivot": [
+        0.0,
+        15.3756,
+        0.0
+      ]
+    },
+    {
+      "name": "chest",
+      "parent": "torso",
+      "pivot": [
+        0.0,
+        23.2917,
+        0.0
+      ]
+    },
+    {
+      "name": "leg_right",
+      "parent": "root",
+      "pivot": [
+        -4.2747,
+        14.584,
+        0.0
+      ]
+    },
+    {
+      "name": "leg_left",
+      "parent": "root",
+      "pivot": [
+        4.2747,
+        14.584,
+        0.0
+      ]
+    },
+    {
+      "name": "arm_right",
+      "parent": "chest",
+      "pivot": [
+        -6.3328,
+        30.4161,
+        0.0
+      ]
+    },
+    {
+      "name": "arm_left",
+      "parent": "chest",
+      "pivot": [
+        6.3328,
+        30.4161,
+        0.0
+      ]
+    },
+    {
+      "name": "forearm_right",
+      "parent": "arm_right",
+      "pivot": [
+        -8.4583,
+        24.1135,
+        0.0
+      ]
+    },
+    {
+      "name": "forearm_left",
+      "parent": "arm_left",
+      "pivot": [
+        8.4583,
+        24.1135,
+        0.0
+      ]
+    },
+    {
+      "name": "hand_right",
+      "parent": "forearm_right",
+      "pivot": [
+        -9.8394,
+        19.3932,
+        0.0
+      ]
+    },
+    {
+      "name": "hand_left",
+      "parent": "forearm_left",
+      "pivot": [
+        9.8394,
+        19.3932,
+        0.0
+      ]
+    },
+    {
+      "name": "neck_1",
+      "parent": "chest",
+      "pivot": [
+        0.0,
+        32.9493,
+        0.475
+      ]
+    },
+    {
+      "name": "neck_2",
+      "parent": "neck_1",
+      "pivot": [
+        0.0,
+        35.1658,
+        0.3166
+      ]
+    },
+    {
+      "name": "neck_3",
+      "parent": "neck_2",
+      "pivot": [
+        0.0,
+        37.3823,
+        0.0
+      ]
+    },
+    {
+      "name": "head",
+      "parent": "neck_3",
+      "pivot": [
+        0.0,
+        39.4404,
+        0.0
+      ]
+    },
+    {
+      "name": "jaw",
+      "parent": "head",
+      "pivot": [
+        0.0,
+        40.5487,
+        1.4249
+      ]
+    }
+  ]
+}

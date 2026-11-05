@@ -1,0 +1,102 @@
+{
+  "tv_on": {
+    "subtitle": "subtitles.bearfriender.tv_on",
+    "sounds": [
+      "bearfriender:tv_on_1"
+    ]
+  },
+  "tv_off": {
+    "subtitle": "subtitles.bearfriender.tv_off",
+    "sounds": [
+      "bearfriender:tv_off_1"
+    ]
+  },
+  "tv_static": {
+    "subtitle": "subtitles.bearfriender.tv_static",
+    "sounds": [
+      "bearfriender:tv_static_1",
+      "bearfriender:tv_static_2"
+    ]
+  },
+  "tv_face": {
+    "subtitle": "subtitles.bearfriender.tv_face",
+    "sounds": [
+      "bearfriender:tv_face_1"
+    ]
+  },
+  "tv_scare_off": {
+    "subtitle": "subtitles.bearfriender.tv_scare_off",
+    "sounds": [
+      "bearfriender:tv_scare_off_1"
+    ]
+  },
+  "tv_voice": {
+    "subtitle": "subtitles.bearfriender.tv_voice",
+    "sounds": [
+      "bearfriender:tv_voice_1",
+      "bearfriender:tv_voice_2",
+      "bearfriender:tv_voice_3"
+    ]
+  },
+  "bear_growl": {
+    "subtitle": "subtitles.bearfriender.bear_growl",
+    "sounds": [
+      "bearfriender:bear_growl_1",
+      "bearfriender:bear_growl_2"
+    ]
+  },
+  "bear_roar": {
+    "subtitle": "subtitles.bearfriender.bear_roar",
+    "sounds": [
+      "bearfriender:bear_roar_1"
+    ]
+  },
+  "bear_scream": {
+    "subtitle": "subtitles.bearfriender.bear_scream",
+    "sounds": [
+      "bearfriender:bear_scream_1"
+    ]
+  },
+  "door_slam": {
+    "subtitle": "subtitles.bearfriender.door_slam",
+    "sounds": [
+      "bearfriender:door_slam_1",
+      "bearfriender:door_slam_2"
+    ]
+  },
+  "knock": {
+    "subtitle": "subtitles.bearfriender.knock",
+    "sounds": [
+      "bearfriender:knock_1",
+      "bearfriender:knock_2",
+      "bearfriender:knock_3"
+    ]
+  },
+  "step_heavy": {
+    "subtitle": "subtitles.bearfriender.step_heavy",
+    "sounds": [
+      "bearfriender:step_heavy_1",
+      "bearfriender:step_heavy_2",
+      "bearfriender:step_heavy_3"
+    ]
+  },
+  "blackout": {
+    "subtitle": "subtitles.bearfriender.blackout",
+    "sounds": [
+      "bearfriender:blackout_1"
+    ]
+  },
+  "light_zap": {
+    "subtitle": "subtitles.bearfriender.light_zap",
+    "sounds": [
+      "bearfriender:light_zap_1",
+      "bearfriender:light_zap_2"
+    ]
+  },
+  "exit_open": {
+    "subtitle": "subtitles.bearfriender.exit_open",
+    "sounds": [
+      "bearfriender:exit_open_1"
+    ]
+  }
+}

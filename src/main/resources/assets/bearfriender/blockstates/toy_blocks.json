@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bearfriender:block/toy_blocks"
+    },
+    "facing=east": {
+      "model": "bearfriender:block/toy_blocks",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bearfriender:block/toy_blocks",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bearfriender:block/toy_blocks",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "color=0": {
+      "model": "bearfriender:block/balloon_0"
+    },
+    "color=1": {
+      "model": "bearfriender:block/balloon_1"
+    },
+    "color=2": {
+      "model": "bearfriender:block/balloon_2"
+    },
+    "color=3": {
+      "model": "bearfriender:block/balloon_3"
+    },
+    "color=4": {
+      "model": "bearfriender:block/balloon_4"
+    },
+    "color=5": {
+      "model": "bearfriender:block/balloon_5"
+    }
+  }
+}

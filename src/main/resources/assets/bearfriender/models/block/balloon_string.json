@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "0": "bearfriender:block/balloon_string",
+    "particle": "bearfriender:block/balloon_string"
+  },
+  "elements": [
+    {
+      "from": [
+        7.85,
+        0,
+        7.85
+      ],
+      "to": [
+        8.15,
+        16,
+        8.15
+      ],
+      "faces": {
+        "north": {
+          "texture": "#0"
+        },
+        "east": {
+          "texture": "#0"
+        },
+        "south": {
+          "texture": "#0"
+        },
+        "west": {
+          "texture": "#0"
+        },
+        "up": {
+          "texture": "#0"
+        },
+        "down": {
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}
